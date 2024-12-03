@@ -1,0 +1,14 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: rgb(26, 11, 11);
+  text-align: center;
+  color: rgb(15, 37, 56);
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+}
